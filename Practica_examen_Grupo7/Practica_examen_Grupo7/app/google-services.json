@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "198792163199",
+    "project_id": "tare-3-grupo-7",
+    "storage_bucket": "tare-3-grupo-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198792163199:android:eed477f3a9c3953c8ab44a",
+        "android_client_info": {
+          "package_name": "com.example.practica_examen_grupo7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198792163199-abk4enkf40hhuoob0a60l5chbr16pa0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7eGbRpt9jrNCJxeOlRC1oLXz4mvl5dUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198792163199-abk4enkf40hhuoob0a60l5chbr16pa0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198792163199:android:523103456e1f17198ab44a",
+        "android_client_info": {
+          "package_name": "com.example.tarea3_grupo7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198792163199-abk4enkf40hhuoob0a60l5chbr16pa0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7eGbRpt9jrNCJxeOlRC1oLXz4mvl5dUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198792163199-abk4enkf40hhuoob0a60l5chbr16pa0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

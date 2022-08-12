@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ui.programas.AddProgramaFragment" >
+
+    <EditText
+        android:id="@+id/et_nombrePrograma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/msg_nombre" />
+
+    <EditText
+        android:id="@+id/et_lanzamiento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/msg_fecha_lanzamiento" />
+
+    <EditText
+        android:id="@+id/et_visualizaciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/msg_visualizaciones" />
+
+    <EditText
+        android:id="@+id/et_actores"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/msg_Actores" />
+
+    <Button
+        android:id="@+id/bt_agregar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_Agregar" />
+
+</LinearLayout>
